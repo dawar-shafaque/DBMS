@@ -1,0 +1,10 @@
+SQL> show user;
+USER is "DAWAR_453"
+SQL> conn
+Enter user-name: ;
+ERROR:
+ORA-01017: invalid username/password; logon denied 
+
+
+Warning: You are no longer connected to ORACLE.
+SQL> spool "C:\DBMS-LAB";
